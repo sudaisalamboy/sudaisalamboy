@@ -6,20 +6,31 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
-<img src="https://github.com/achievements/sudaisalamboy/quickdraw" alt="Quickdraw" width="80" height="80" title="Quickdraw — Opened a PR within 1 minute of a repo being created" />
-<img src="https://github.com/achievements/sudaisalamboy/starstruck" alt="Starstruck" width="80" height="80" title="Starstruck — Created a repo with 16+ stars" />
-<img src="https://github.com/achievements/sudaisalamboy/pull-shark" alt="Pull Shark" width="80" height="80" title="Pull Shark — Opened 4+ pull requests" />
-<img src="https://github.com/achievements/sudaisalamboy/galaxy-brain" alt="Galaxy Brain" width="80" height="80" title="Galaxy Brain — Answered 2+ discussions" />
-<img src="https://github.com/achievements/sudaisalamboy/yolo" alt="YOLO" width="80" height="80" title="YOLO — Merged a PR without review" />
-<img src="https://github.com/achievements/sudaisalamboy/yo" alt="Pair Extraordinaire" width="80" height="80" title="Pair Extraordinaire — Co-authored a commit" />
-<img src="https://github.com/achievements/sudaisalamboy/mind-blown" alt="Mind Blown" width="80" height="80" title="Mind Blown — Received a Shocking reaction" />
-<img src="https://github.com/achievements/sudaisalamboy/heart-on-your-sleeve" alt="Heart on Your Sleeve" width="80" height="80" title="Heart on Your Sleeve — Received 10+ heart reactions" />
-<img src="https://github.com/achievements/sudaisalamboy/ohsaycanuc" alt="Open Sourcerer" width="80" height="80" title="Open Sourcerer — Contributed to public repos" />
-<img src="https://github.com/achievements/sudaisalamboy/skyliner" alt="Skyliner" width="80" height="80" title="Skyliner — Created a repo with 100+ stars" />
-<img src="https://github.com/achievements/sudaisalamboy/polyglot" alt="Polyglot" width="80" height="80" title="Polyglot — Used 10+ languages" />
-<img src="https://github.com/achievements/sudaisalamboy/sponsor" alt="Sponsor" width="80" height="80" title="Sponsor — Sponsored an open source project" />
+These are my **real, earned** GitHub achievements:
+
+| Badge | Achievement | How I earned it |
+|-------|------------|-----------------|
+| ⚡ | **Quickdraw** | Opened a pull request within 60 seconds of a repository being created |
+| ⭐ | **Starstruck** | Created a repository that received 16+ stars |
+| 🦈 | **Pull Shark** | Opened 4+ pull requests across repositories |
+| 🧠 | **Galaxy Brain** | Answered 2+ discussions in GitHub Discussions |
+
+### 🎯 Earning More Achievements
+
+I'm working towards these next achievements:
+
+| Badge | Achievement | Requirement |
+|-------|------------|-------------|
+| 🎲 | **YOLO** | Merge a pull request without review |
+| 👯 | **Pair Extraordinaire** | Co-author a commit with another developer |
+| 🤯 | **Mind Blown** | Receive a "Shocking" reaction on a comment |
+| 💗 | **Heart on Your Sleeve** | Receive 10+ heart reactions on comments |
+| 🌍 | **Open Sourcerer** | Contribute to 5+ open source projects |
+| 🏗️ | **Skyliner** | Create a repository with 100+ stars |
+| 🔤 | **Polyglot** | Use 10+ programming languages across repos |
+| 💰 | **Sponsor** | Sponsor an open source project or developer |
 
 ---
 
@@ -39,18 +50,10 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisalamboy&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudaisalamboy&theme=radical&hide_border=true" alt="WakaTime" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sudaisalamboy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
     </td>
   </tr>
 </table>
-
----
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudaisalamboy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
 
 ---
 
@@ -108,8 +111,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudaisalamboy&style=flat-square&color=blue" alt="Profile Views" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sudaisalamboy&show=reviews,discussions_started,discussions_answered&theme=radical&hide_border=true" alt="Activity Stats" />
   <br/><br/>
   <b>⭐ 21 Public Repositories · 🌟 4 Followers · 📅 Active Since Jan 2025</b>
   <br/><br/>
