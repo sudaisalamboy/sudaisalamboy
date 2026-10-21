@@ -6,6 +6,9 @@
 
 Building beautiful, scalable web apps with clean UI and robust backends.
 
+### 🎯 Currently Learning System Design
+Mastering distributed systems, scalability patterns, and system architecture.
+
 [![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
 [![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 [![Hireable](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge)](https://github.com/sudaisalamboy)
