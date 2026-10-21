@@ -1,120 +1,148 @@
-# 👋 Hi, I'm Sudais Alam
+<div align="center">
 
-> **Full Stack Developer | Web3 Enthusiast**
-> 
-> Building JavaScript/TypeScript apps with clean UI & scalable logic. Currently exploring ethers.js.
+# Sudais Alam
+
+### Full Stack Developer · Next.js · React · TypeScript · PHP/Laravel
+
+Building beautiful, scalable web apps with clean UI and robust backends.
+
+[![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
+[![Email](https://img.shields.io/badge/Email-sudaisalam@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam@gmail.com)
+[![Hireable](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge)](https://github.com/sudaisalamboy)
+
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🛠️ Tech Stack
 
-These are my **real, earned** GitHub achievements:
+<div align="center">
 
-| Badge | Achievement | How I earned it |
-|-------|------------|-----------------|
-| ⚡ | **Quickdraw** | Opened a pull request within 60 seconds of a repository being created |
-| ⭐ | **Starstruck** | Created a repository that received 16+ stars |
-| 🦈 | **Pull Shark** | Opened 4+ pull requests across repositories |
-| 🧠 | **Galaxy Brain** | Answered 2+ discussions in GitHub Discussions |
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🎯 Earning More Achievements
+</div>
 
-I'm working towards these next achievements:
+---
 
-| Badge | Achievement | Requirement |
-|-------|------------|-------------|
-| 🎲 | **YOLO** | Merge a pull request without review |
-| 👯 | **Pair Extraordinaire** | Co-author a commit with another developer |
-| 🤯 | **Mind Blown** | Receive a "Shocking" reaction on a comment |
-| 💗 | **Heart on Your Sleeve** | Receive 10+ heart reactions on comments |
-| 🌍 | **Open Sourcerer** | Contribute to 5+ open source projects |
-| 🏗️ | **Skyliner** | Create a repository with 100+ stars |
-| 🔤 | **Polyglot** | Use 10+ programming languages across repos |
-| 💰 | **Sponsor** | Sponsor an open source project or developer |
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌤️ Aurora Weather</h3>
+      <p align="center">Premium glassmorphism weather app with 4 pages, animated SVG charts, live autocomplete, particle effects. Pure HTML/CSS/JS, no frameworks.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/weather-app">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 LinkHub</h3>
+      <p align="center">Modern link-in-bio builder with analytics dashboard, 4 themes, API routes, and public profile pages. Built with Next.js 16 + React 19.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/linkhub">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 WebOS</h3>
+      <p align="center">Cloud desktop OS running in the browser — VNC remote browser, AI assistant, real terminal (PTY), file explorer, camera injection. Next.js 16 + Prisma.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/WebOS">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/VNC-2D3748?style=flat-square" /></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 Clinic Management</h3>
+      <p align="center">Full-stack clinic management system — doctors, nurses, appointments, billing, payroll, inventory. Next.js + Prisma + Playwright E2E tests.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/clinic">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/E2E-2D3748?style=flat-square" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 Tournament-ff</h3>
+      <p align="center">FreeFire tournament platform — registrations, brackets, payments (Razorpay), real-time notifications (Socket.IO), Firebase auth. Next.js + Prisma.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/Tournament-ff">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ ZIP-Forge</h3>
+      <p align="center">Ultimate ZIP editor — bulk replace text across hundreds of files inside ZIPs without manual extraction. Mobile-first PWA.</p>
+      <p align="center"><a href="https://github.com/sudaisalamboy/ZIP-Forge">🔗 View Project</a></p>
+      <p align="center"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" /> <img src="https://img.shields.io/badge/Mobile-First-FF6B6B?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sudaisalamboy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudaisalamboy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisalamboy&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=sudaisalamboy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudaisalamboy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudaisalamboy&layout=compact&theme=radical&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisalamboy&theme=radical&hide_border=true" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=sudaisalamboy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="170" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudaisalamboy&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudaisalamboy&theme=react-dark&hide_border=true" width="800" />
+
+</div>
 
 ---
 
-## 🚀 My Projects
+## 🏆 Achievements
 
-<table>
-  <tr>
-    <td width="33%" align="center"><b>🌤️ Aurora Weather</b></td>
-    <td width="33%" align="center"><b>💻 WebOS</b></td>
-    <td width="33%" align="center"><b>⚡ ZIP-Forge</b></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">Premium weather app<br/>HTML/CSS/JS<br/><a href="https://github.com/sudaisalamboy/weather-app">→ View</a></td>
-    <td width="33%" align="center">Cloud desktop OS<br/>Next.js + Prisma<br/><a href="https://github.com/sudaisalamboy/WebOS">→ View</a></td>
-    <td width="33%" align="center">ZIP file editor<br/>PWA + Mobile<br/><a href="https://github.com/sudaisalamboy/ZIP-Forge">→ View</a></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><b>🎮 Gaming Tournament</b></td>
-    <td width="33%" align="center"><b>🧘 Breathing App</b></td>
-    <td width="33%" align="center"><b>📊 Multi-Crop Tool</b></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">Firebase + Bootstrap<br/>Admin + User panels<br/><a href="https://github.com/sudaisalamboy/Gaming-tournament-app">→ View</a></td>
-    <td width="33%" align="center">Breathing exercises<br/>4-7-8 + Binaural<br/><a href="https://github.com/sudaisalamboy/breathing">→ View</a></td>
-    <td width="33%" align="center">Multi-platform image cropper<br/>Canvas + JSZip<br/><a href="https://github.com/sudaisalamboy/multi-crop-in-one">→ View</a></td>
-  </tr>
-</table>
+<div align="center">
+
+| ⚡ Quickdraw | ⭐ Starstruck | 🦈 Pull Shark | 🧠 Galaxy Brain | 🎲 YOLO |
+|:---:|:---:|:---:|:---:|:---:|
+| PR in 60s | 16+ stars | 4+ PRs merged | 2+ discussions answered | Merged without review |
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,python,html,css,tailwind,prisma,git,github,firebase,docker,vite,bun" alt="Tech Stack" />
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
+[![Email](https://img.shields.io/badge/Email-sudaisalam@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam@gmail.com)
 
-## 📫 Connect With Me
+**🌍 15+ Public Repositories · ⭐ 11 Languages · 🏗️ CI/CD on every repo**
 
-<p align="center">
-  <a href="https://github.com/sudaisalamboy"><img src="https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:sudaisalam@gmail.com"><img src="https://img.shields.io/badge/Email-sudaisalam@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
-</p>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudaisalamboy&style=flat-square&color=blue" alt="Profile Views" />
-  <br/><br/>
-  <b>⭐ 21 Public Repositories · 🌟 4 Followers · 📅 Active Since Jan 2025</b>
-  <br/><br/>
-  <i>"Building the future, one commit at a time."</i>
-  <br/><br/>
-  Made with ♥ by <b>Sudais Alam</b>
+
+<img src="https://komarev.com/ghpvc/?username=sudaisalamboy&style=flat-square&color=blue" alt="Profile Views" />
+
+<br/><br/>
+
+*"Building the future, one commit at a time."*
+
+<br/>
+
+**Made with ♥ by Sudais Alam**
+
 </div>
