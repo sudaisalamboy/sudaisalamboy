@@ -105,7 +105,7 @@ Mastering distributed systems, scalability patterns, and system architecture.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudaisalamboy&theme=react-dark&hide_border=true" width="800" />
+<img src="https://ghchart.rshah.org/sudaisalamboy" width="800" alt="Contribution Graph" />
 
 </div>
 
