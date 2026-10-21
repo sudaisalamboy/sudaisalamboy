@@ -7,7 +7,7 @@
 Building beautiful, scalable web apps with clean UI and robust backends.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
-[![Email](https://img.shields.io/badge/Email-sudaisalam@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 [![Hireable](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge)](https://github.com/sudaisalamboy)
 
 </div>
@@ -125,7 +125,7 @@ Building beautiful, scalable web apps with clean UI and robust backends.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
-[![Email](https://img.shields.io/badge/Email-sudaisalam@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 
 **🌍 15+ Public Repositories · ⭐ 11 Languages · 🏗️ CI/CD on every repo**
 
