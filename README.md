@@ -94,8 +94,8 @@ Mastering distributed systems, scalability patterns, and system architecture.
 <img src="https://github-readme-stats.vercel.app/api?username=sudaisalamboy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudaisalamboy&layout=compact&theme=radical&hide_border=true" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisalamboy&theme=radical&hide_border=true" height="170" />
-<img src="https://github-profile-trophy.vercel.app/?username=sudaisalamboy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="170" />
+<img src="https://streak-stats.demolab.com/?user=sudaisalamboy&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudaisalamboy&show=reviews,discussions_started,discussions_answered&theme=radical&hide_border=true" height="170" />
 
 </div>
 
@@ -105,7 +105,7 @@ Mastering distributed systems, scalability patterns, and system architecture.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/sudaisalamboy" width="800" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/4a55b1/sudaisalamboy" width="800" alt="Contribution Graph" />
 
 </div>
 
