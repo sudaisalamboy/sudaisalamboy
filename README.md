@@ -9,7 +9,7 @@ Building beautiful, scalable web apps with clean UI and robust backends.
 ### 🎯 Currently Learning System Design
 Mastering distributed systems, scalability patterns, and system architecture.
 
-[![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209117509707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919117509707)
 [![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Sudais_alam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sudais_alam)
 [![Hireable](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge)](https://github.com/sudaisalamboy)
@@ -128,7 +128,7 @@ Mastering distributed systems, scalability patterns, and system architecture.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sudaisalamboy-181717?style=for-the-badge&logo=github)](https://github.com/sudaisalamboy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209117509707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919117509707)
 [![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Sudais_alam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sudais_alam)
 
