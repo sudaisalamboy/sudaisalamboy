@@ -61,6 +61,7 @@ A modern, animated portfolio with analog clock, particle background, skills matr
     </td>
     <td width="50%">
       <h3 align="center">🖥️ WebOS</h3>
+      <p align="center"><img src="https://raw.githubusercontent.com/sudaisalamboy/WebOS/main/preview/Screenshot_20261022_224155.png" alt="WebOS — Cloud Desktop" width="100%" /></p>
       <p align="center">Cloud desktop OS running in the browser. AI assistant, real terminal, VNC remote browser, file explorer, camera injection. 10+ integrated apps.</p>
       <p align="center">
         <a href="https://github.com/sudaisalamboy/WebOS">🔗 GitHub</a>
