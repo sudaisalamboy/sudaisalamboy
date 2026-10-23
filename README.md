@@ -6,10 +6,10 @@
 
 Building beautiful, scalable web apps with clean UI and robust backends.
 
-### 🎯 Currently Learning System Design
+### &#127919; Currently Learning System Design
 Mastering distributed systems, scalability patterns, and system architecture.
 
-### 🌐 [View My Portfolio Website →](https://sudaisalamboy.github.io/portfolio/)
+### &#127760; [View My Portfolio Website ->](https://sudaisalamboy.github.io/portfolio/)
 A modern, animated portfolio with analog clock, particle background, skills matrix, and WhatsApp contact form.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209117509707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919117509707)
@@ -21,7 +21,7 @@ A modern, animated portfolio with analog clock, particle background, skills matr
 
 ---
 
-## 🛠️ Tech Stack
+## &#128295;️ Tech Stack
 
 <div align="center">
 
@@ -42,16 +42,16 @@ A modern, animated portfolio with analog clock, particle background, skills matr
 
 ---
 
-## 🚀 Featured Projects
+## &#128640; Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔍 npm Vulnerability Scanner</h3>
+      <h3 align="center">&#128269; npm Vulnerability Scanner</h3>
       <p align="center">Free open-source CVE scanner for npm dependencies with SBOM generation (SPDX 2.3 + CycloneDX 1.4). CLI, GitHub Action, and live web demo.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/npm-vulnerability-scanner">🔗 GitHub</a> ·
-        <a href="https://sudaisalamboy.github.io/npm-vulnerability-scanner/">🌐 Live Demo</a>
+        <a href="https://github.com/sudaisalamboy/npm-vulnerability-scanner">&#128279; GitHub</a> ·
+        <a href="https://sudaisalamboy.github.io/npm-vulnerability-scanner/">&#127760; Live Demo</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -60,11 +60,11 @@ A modern, animated portfolio with analog clock, particle background, skills matr
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🖥️ WebOS</h3>
+      <h3 align="center">&#128421;️ WebOS</h3>
       <p align="center"><img src="https://raw.githubusercontent.com/sudaisalamboy/WebOS/main/preview/Screenshot_20261022_224155.png" alt="WebOS — Cloud Desktop" width="100%" /></p>
       <p align="center">Cloud desktop OS running in the browser. AI assistant, real terminal, VNC remote browser, file explorer, camera injection. 10+ integrated apps.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/WebOS">🔗 GitHub</a>
+        <a href="https://github.com/sudaisalamboy/WebOS">&#128279; GitHub</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -75,10 +75,10 @@ A modern, animated portfolio with analog clock, particle background, skills matr
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 FreeFire Tournament</h3>
+      <h3 align="center">&#127918; FreeFire Tournament</h3>
       <p align="center">Tournament platform with Solo/Duo/Squad, UPI payments (Razorpay), real-time notifications (Socket.IO), Firebase auth, admin panel.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/Tournament-ff">🔗 GitHub</a>
+        <a href="https://github.com/sudaisalamboy/Tournament-ff">&#128279; GitHub</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -87,10 +87,10 @@ A modern, animated portfolio with analog clock, particle background, skills matr
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🏥 Clinic Management</h3>
+      <h3 align="center">&#127973; Clinic Management</h3>
       <p align="center">Full-stack clinic management — doctors, appointments, billing, payroll, inventory. Next.js + Prisma + Playwright E2E tests.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/clinic">🔗 GitHub</a>
+        <a href="https://github.com/sudaisalamboy/clinic">&#128279; GitHub</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -101,10 +101,10 @@ A modern, animated portfolio with analog clock, particle background, skills matr
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔒 APK Analyzer</h3>
+      <h3 align="center">&#128274; APK Analyzer</h3>
       <p align="center">Ethical security research tool for Android APK packages. Extracts, decompiles, audits — finds API endpoints, secrets, permissions.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/apk-analyzer">🔗 GitHub</a>
+        <a href="https://github.com/sudaisalamboy/apk-analyzer">&#128279; GitHub</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -113,10 +113,10 @@ A modern, animated portfolio with analog clock, particle background, skills matr
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ ZIP-Forge</h3>
+      <h3 align="center">&#9889; ZIP-Forge</h3>
       <p align="center">Ultimate ZIP editor — bulk replace text across hundreds of files inside ZIPs without manual extraction. Mobile-first PWA.</p>
       <p align="center">
-        <a href="https://github.com/sudaisalamboy/ZIP-Forge">🔗 GitHub</a>
+        <a href="https://github.com/sudaisalamboy/ZIP-Forge">&#128279; GitHub</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
@@ -128,7 +128,7 @@ A modern, animated portfolio with analog clock, particle background, skills matr
 
 ---
 
-## 📊 GitHub Stats
+## &#128202; GitHub Stats
 
 <div align="center">
 
@@ -159,7 +159,7 @@ A modern, animated portfolio with analog clock, particle background, skills matr
 [![Email](https://img.shields.io/badge/Email-sudaisalam18@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sudaisalam18@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Sudais_alam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sudais_alam)
 
-**🌍 21 Public Repositories · ⭐ 11 Languages · 🏗️ CI/CD on every repo**
+**&#127757; 21 Public Repositories · &#9733; 11 Languages · &#127959;️ CI/CD on every repo**
 
 </div>
 
@@ -175,6 +175,6 @@ A modern, animated portfolio with analog clock, particle background, skills matr
 
 <br/>
 
-**Made with ♥ by Sudais Alam**
+**Made with &hearts; by Sudais Alam**
 
 </div>
